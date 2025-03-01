@@ -89,7 +89,7 @@ AetherLock takes security seriously. Here’s how we protect your data:
 
 ## License
 
-This project is licensed under the **Apache-2.0 license**. See the LICENSE file for more details.
+This project is licensed under the **Apache-2.0 license**. See the [LICENSE](https://github.com/Legionn-cs50/AetherLock?tab=Apache-2.0-1-ov-file#) file for more details.
 
 ---
 
