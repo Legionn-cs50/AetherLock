@@ -95,8 +95,8 @@ This project is licensed under the **Apache-2.0 license**. See the [LICENSE](htt
 
 ## Author
 
-Legionn
-
+Developed by **Legionn**  
+- GitHub: [Legionn](https://github.com/Legionn-cs50)  
 ---
 
 AetherLock is committed to providing a **secure and user-friendly** password management experience. Stay tuned for future updates and improvements!
