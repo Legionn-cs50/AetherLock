@@ -68,24 +68,12 @@ AetherLock takes security seriously. Here’s how we protect your data:
 
 ## 🛠️ Installation
 
-> **Note:** AetherLock is still in the **development and testing phase**. The installation process will be added soon.
 ### 🖥 Windows
 1. Prejdi na stránku **[Releases](https://github.com/moje-meno/moj-repo/releases)**.
 2. Stiahni najnovší inštalačný súbor (`Password-Tools-Setup.exe`).
 3. Spusti inštalátor a postupuj podľa pokynov.
 
-### 🍏 macOS
-1. Prejdi na stránku **[Releases](https://github.com/moje-meno/moj-repo/releases)**.
-2. Stiahni najnovší `.dmg` súbor (`Password-Tools.dmg`).
-3. Otvor `.dmg` súbor a presuň aplikáciu do priečinka `Applications`.
-
-### 🐧 Linux
-1. Prejdi na stránku **[Releases](https://github.com/moje-meno/moj-repo/releases)**.
-2. Stiahni najnovší `.AppImage` súbor (`Password-Tools.AppImage`).
-3. Otvor terminál a povoľ spustenie aplikácie:
-   ```sh
-   chmod +x Password-Tools.AppImage
-
+> **Note:** AetherLock is still in the **development and testing phase**. The installation process will be added soon.
 ---
 
 ## 📖 How to Use
