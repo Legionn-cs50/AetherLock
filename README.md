@@ -1,104 +1,107 @@
 # AetherLock
 
-AetherLock is a secure and intuitive password manager designed to keep your credentials safe while offering a seamless user experience. Built using Electron, AetherLock ensures that your passwords remain protected using industry-standard encryption techniques and hashing algorithms.
+AetherLock is a secure and intuitive password manager designed to safeguard your credentials while providing a seamless user experience. Built using Electron, AetherLock ensures that your passwords remain protected with industry-standard encryption techniques and hashing algorithms.
 
 ---
 
-## 🔒 Why Choose AetherLock?
+## Why Choose AetherLock?
 
-With the increasing number of online accounts we create daily, password security has never been more critical. Many users struggle to remember complex passwords or reuse the same password across multiple sites, making them vulnerable to cyber threats. 
+As the number of online accounts we create continues to rise, password security has never been more important. Many users struggle with remembering complex passwords or resort to reusing the same password across multiple sites, which exposes them to significant security risks.
 
-AetherLock provides a simple yet powerful solution, offering secure password management, encryption, and monitoring features to keep your data safe from unauthorized access and breaches.
+AetherLock offers a powerful solution by providing secure password management, encryption, and monitoring features to protect your data from unauthorized access and breaches.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-### 🔑 Secure Password Storage
-- Your passwords are safely stored locally on your device using **Keytar**, ensuring full control over your sensitive information.
+### Secure Password Storage
+- Your passwords are securely stored locally on your device using **Keytar**, ensuring that you retain full control over your sensitive information.
 
-### 🔐 Encryption & Hashing
+### Encryption & Hashing
 - The **master password** is securely hashed using the **SHA-256** algorithm.
-- All stored service passwords are **encrypted** with your master password using **Crypto-JS**, providing strong security.
+- All stored service passwords are **encrypted** with your master password using **Crypto-JS**, providing robust security.
 
-### 📊 Password Strength Evaluation
-- AetherLock analyzes the strength of your passwords and provides recommendations to enhance security.
+### Password Strength Evaluation
+- AetherLock evaluates the strength of your passwords and offers recommendations for improving security.
 
-### 🔍 Data Breach Monitoring
-- Integration with **Have I Been Pwned (HIBP) API** allows you to check if your passwords have been exposed in known data breaches.
+### Data Breach Monitoring
+- Integration with the **Have I Been Pwned (HIBP) API** enables you to check if your passwords have been exposed in known data breaches.
 
-### ⚡ Password Generation
-- Easily generate **strong and unique passwords** tailored to your security preferences.
+### Password Generation
+- Effortlessly generate **strong and unique passwords** tailored to your security needs.
 
-### 🎨 Modern & Clean UI
-- The user interface is designed to be **user-friendly, minimalistic, and efficient**, allowing quick access to all essential features.
+### Modern & Clean UI
+- The user interface is designed to be **user-friendly**, minimalistic, and efficient, providing quick access to all essential features.
 
-### 📂 Service Details Management
-- Click on a saved **service name** to view stored credentials.
-- You can also **edit or delete entries** as needed.
+### Service Details Management
+- Click on a saved **service name** to view stored credentials. You can also **edit or delete entries** as necessary.
 
-### 🛠️ Account Recovery
+### Account Recovery
 - If you forget your **master password**, AetherLock offers a recovery process using a **memorable recovery phrase** set during registration.
 
-### 🖥️ Windows Support
-- Currently, AetherLock is available exclusively for **Windows**.
+### Windows Support
+- AetherLock is currently available exclusively for **Windows**.
 
-### 🚀 Full Local Control
-- Unlike cloud-based password managers, **all your passwords are stored locally** on your device, ensuring maximum privacy and security.
+### Full Local Control
+- Unlike cloud-based password managers, **all your passwords are stored locally** on your device, ensuring the highest level of privacy and security.
 
 ---
 
-## 🛡️ Security Measures
+## Security Measures
 
 AetherLock takes security seriously. Here’s how we protect your data:
 
-### 🔒 End-to-End Encryption
+### End-to-End Encryption
 - Your stored passwords are **encrypted** using your **master password**, ensuring that only you can access them.
 
-### 🔄 Strong Hashing Algorithm
+### Strong Hashing Algorithm
 - The master password is **hashed using SHA-256** before being stored, preventing unauthorized access in case of data exposure.
 
-### 📴 Offline-First Approach
-- All data remains **on your device**, minimizing risks associated with online storage and cloud-based leaks.
+### Offline-First Approach
+- All data remains **on your device**, minimizing risks associated with online storage and cloud-based breaches.
 
-### ✅ Data Integrity Checks
-- The application verifies **data integrity** to prevent unauthorized modifications.
+### Data Integrity Checks
+- The application performs **data integrity checks** to prevent unauthorized modifications.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
-### 🖥 Windows
-1. Prejdi na stránku **[Releases](https://github.com/moje-meno/moj-repo/releases)**.
-2. Stiahni najnovší inštalačný súbor (`Password-Tools-Setup.exe`).
-3. Spusti inštalátor a postupuj podľa pokynov.
+### Windows
+1. Go to the **[Releases](https://github.com/moje-meno/moj-repo/releases)** page.
+2. Download the latest installer (`Password-Tools-Setup.exe`).
+3. Run the installer and follow the on-screen instructions.
 
-> **Note:** AetherLock is still in the **development and testing phase**. The installation process will be added soon.
+> **Note:** AetherLock is still in the **development and testing phase**. As a result, the installation may trigger a security warning due to the lack of digital signing. This is a known issue and can be bypassed by proceeding with the installation.
+
 ---
 
-## 📖 How to Use
+## How to Use
 
 1. **Create an Account**: Register with a **strong master password** and set a **memorable recovery phrase**.
 2. **Save Your Credentials**: Add your accounts and securely store their login details.
-3. **Check Password Strength**: Review your stored passwords’ **security levels** and improve them if necessary.
-4. **Monitor Data Breaches**: Use the built-in **HIBP API integration** to check if your passwords have been compromised.
+3. **Check Password Strength**: Review your stored passwords' **security levels** and enhance them if necessary.
+4. **Monitor Data Breaches**: Use the integrated **HIBP API** to check if your passwords have been compromised.
 5. **Manage Your Credentials**: Click on a **service name** to view, edit, or delete stored passwords.
-6. **Recover Your Account**: If you forget your **master password**, restore access using your **recovery phrase**.
+6. **Account Recovery**: If you forget your **master password**, restore access using your **recovery phrase**.
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the **Apache-2.0 license**. See the LICENSE file for more details.
 
 ---
 
-## ✍️ Author
+## Author
 
 Legionn
 
 ---
 
-AetherLock is committed to providing a **secure and user-friendly** password management experience. Stay tuned for future updates and improvements! 🚀
+AetherLock is committed to providing a **secure and user-friendly** password management experience. Stay tuned for future updates and improvements!
 
+---
+
+Let me know if there’s anything else you’d like to adjust!
 
