@@ -69,7 +69,7 @@ AetherLock takes security seriously. Here’s how it protect your data:
 
 ### Windows
 1. Go to the **[Releases](https://github.com/Legionn-cs50/AetherLock/releases/latest)** page.
-2. Download the installer (`AetherLock-Setup-version.exe`) from the latest release.
+2. Download the installer (`AetherLock-Setup-version.exe`) from the latest release, download only installer and nothing else.
 3. Run the installer and follow the on-screen instructions.
 
 > **Note:** AetherLock is still in the **development and testing phase**. As a result, the installation may trigger a security warning due to the lack of digital signing. This is a known issue and can be bypassed by proceeding with the installation.
