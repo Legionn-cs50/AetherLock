@@ -1,6 +1,6 @@
 # AetherLock
 
-AetherLock is a secure and intuitive password manager designed to safeguard your credentials while providing a seamless user experience. Built using Electron, AetherLock ensures that your passwords remain protected with industry-standard encryption techniques and hashing algorithms.
+AetherLock is a secure and intuitive password manager designed to safeguard your credentials while providing a seamless user experience. Built using [Electron](https://www.electronjs.org/), AetherLock ensures that your passwords remain protected with industry-standard encryption techniques and hashing algorithms.
 
 ---
 
@@ -34,7 +34,7 @@ AetherLock offers a powerful solution by providing secure password management, e
 - The user interface is designed to be **user-friendly**, minimalistic, and efficient, providing quick access to all essential features.
 
 ### Service Details Management
-- Click on a saved **service name** to view stored credentials. You can also **edit or delete entries** as necessary.
+- Click on a saved **service name** to view stored credentials. You can also **edit or delete services** as necessary.
 
 ### Account Recovery
 - If you forget your **master password**, AetherLock offers a recovery process using a **memorable recovery phrase** set during registration.
@@ -49,7 +49,7 @@ AetherLock offers a powerful solution by providing secure password management, e
 
 ## Security Measures
 
-AetherLock takes security seriously. Here’s how we protect your data:
+AetherLock takes security seriously. Here’s how it protect your data:
 
 ### End-to-End Encryption
 - Your stored passwords are **encrypted** using your **master password**, ensuring that only you can access them.
@@ -69,7 +69,7 @@ AetherLock takes security seriously. Here’s how we protect your data:
 
 ### Windows
 1. Go to the **[Releases](https://github.com/Legionn-cs50/AetherLock/releases/latest)** page.
-2. Download the latest installer (`Password-Tools-Setup.exe`).
+2. Download the installer (`Password-Tools-Setup.exe`) from the latest release.
 3. Run the installer and follow the on-screen instructions.
 
 > **Note:** AetherLock is still in the **development and testing phase**. As a result, the installation may trigger a security warning due to the lack of digital signing. This is a known issue and can be bypassed by proceeding with the installation.
