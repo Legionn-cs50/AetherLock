@@ -68,7 +68,7 @@ AetherLock takes security seriously. Here’s how we protect your data:
 ## Installation
 
 ### Windows
-1. Go to the **[Releases]([https://github.com/moje-meno/moj-repo/releases](https://github.com/Legionn-cs50/AetherLock/releases/latest)** page.
+1. Go to the **[Releases](https://github.com/Legionn-cs50/AetherLock/releases/latest)** page.
 2. Download the latest installer (`Password-Tools-Setup.exe`).
 3. Run the installer and follow the on-screen instructions.
 
